@@ -2,3 +2,4 @@
 results/
 train_modal.py
 dataset/
+psycache/
