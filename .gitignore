@@ -1,0 +1,4 @@
+.env 
+results/
+train_modal.py
+dataset/
